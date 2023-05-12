@@ -5,3 +5,6 @@
 chmod +x setup.sh
 ./setup.sh
 
+#TODO
+There is lot of refactoring that can be done over here but for the sake of time i'm not going for perfection.
+
