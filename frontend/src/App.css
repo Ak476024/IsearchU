@@ -1,0 +1,14 @@
+.header {
+  display: flex;
+  justify-content: center;
+  margin: auto;
+}
+
+.header span {
+  font-size: 5rem;
+  padding: 0px 8px;
+}
+
+.header img {
+  margin-top: 20px;
+}
